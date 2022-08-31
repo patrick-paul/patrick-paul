@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, computer science, technology and Innovations In the Tech industry 
 - 🌱 I love Javascript, Data structures, algorithms and computer programming at large
 - 💞️ I’m looking to collaborate on Javascript Language, Data Structures & Algorithms, Computer Science and Technology Trends
-- 📫 How to reach me, Instagram @sam.dev404, Gmail: patrickpaul367@gmail.com 
+- 📫 How to reach me, Instagram @patric_forreal, Gmail: patrickpaul367@gmail.com 
 
 <!---
 patrick-paul/patrick-paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
