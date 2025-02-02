@@ -82,16 +82,24 @@ Well, I like to code good code, I am a developer with very different ideas of ho
 
 ---
 
-<br><br>
+<br>
 <div align="center">
 
 ### 📊 GitHub Journey
+  
+<img style="display: block; margin: auto; align:center;" alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=patrick-paul&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrick-paul&show_icons=true&theme=github_dark&hide_border=true)
+<br>
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrick-paul&theme=github-dark&hide_border=true)
+<img style="display: block; margin: auto; align:center;" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-paul&theme=github-dark&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-paul&layout=compact&theme=github_dark&hide_border=true)
+<br>
+<br>
+
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=patrick-paul&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
+
+<br>
 
 </div>
 
