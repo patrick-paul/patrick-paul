@@ -22,16 +22,17 @@ Well, I like to code good code, I am a developer with very different ideas of ho
 
 - 🎓 The idea of what knowledge can help you do
 - 💡 Creativity and problem-solving ideas
-- 🌍 I'm on a mission for some reasons
+- 🧠 The mission I have in my stormy head
 - 🚀 A tech company won't hurt
 
-<br><br>
+<br>
 
 ### 🛠️ Technology Stack
 
 <div align="center">
-
+  
 #### Core Languages
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -95,10 +96,10 @@ Well, I like to code good code, I am a developer with very different ideas of ho
 </div>
 
 ---
-<br>
+
 <div align="center">
   
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=patrick-paul&label=Profile%20Views&labelColor=%23000000&countColor=%2339d353)
 
