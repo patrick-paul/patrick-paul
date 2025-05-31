@@ -1,9 +1,11 @@
 <div align="center">
 <img src="readme_background.png" alt="Patrick's Banner" height="500px" width="1000px" />
-<br>
-# 👨‍💻 Patrick Paul
+
+<h1><b>👨‍💻 Patrick Paul</b></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Love+the+art+of+crafting+programs!;AI+is+cool,+but+so+overhyped!;I+do+Web+Dev+pretty+well!)](https://git.io/typing-svg)
+<br>
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=patrick-paul&color=brightgreen&style=flat-square)](https://github.com/patrick-paul)
 [![X](https://img.shields.io/badge/X-@patric__forreal-black?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://x.com/patric_forreal) 
