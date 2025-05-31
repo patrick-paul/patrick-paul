@@ -1,5 +1,7 @@
 <div align="center">
-<img src="readme_background.png" alt="Patrick's Banner" height="500px" width="1000px" />
+<div align="center">
+  <img src="readme_background.png" alt="Patrick's Banner" style="max-width: 100%; height: auto;" />
+</div>
 
 <h1><b>👨‍💻 Patrick Paul</b></h1>
 
@@ -25,7 +27,6 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 
 - 🎓 The idea of what knowledge can help you do
 - 💡 Creativity and problem-solving ideas
-- 🧠 The mission I have in my stormy head
 - 🚀 A tech company won't hurt
 
 <br>
@@ -74,9 +75,8 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 <br><br>
 ### 🤝 Collaboration Interests
 
-- 🌍 Tech Solutions that matter
 - 🚀 Open Source Projects
-- 💡 Innovation in Web Development
+- 💡 Web Development
 - 🤖 AI/ML Projects
 
 ### 📫 Let's Connect
