@@ -82,7 +82,7 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 - 💡 Web Development
 - 🤖 AI/ML Projects
 
-### 📫 Let's Connect
+### 📫 Find Me
 
 - 🐦 Twitter: [@patric_forreal](https://x.com/patric_forreal)
 - 📧 Email: patrickpaul367@gmail.com
