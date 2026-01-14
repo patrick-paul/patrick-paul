@@ -31,6 +31,12 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 
 <br>
 
+### My Stats
+
+[![Patrick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patrick-paul&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
 ### 🛠️ Technology Stack
 
 <div align="center">
@@ -44,7 +50,6 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 
 #### Frontend Development
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Radix UI](https://img.shields.io/badge/-Radix%20UI-16181D?style=flat-square&logo=radixui&logoColor=white)
 <br>
@@ -58,7 +63,6 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -84,12 +88,6 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 </div>
 
 <br><br>
-### 🤝 Collaboration Interests
-
-- 🚀 Open Source Projects
-- 💡 Web Development
-- 🤖 AI/ML Projects
-
 ### 📫 Find Me
 
 - 🐦 Twitter: [@patric_forreal](https://x.com/patric_forreal)
@@ -104,11 +102,6 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 ### 📊 GitHub Journey
   
 <img style="display: block; margin: auto; align:center;" alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=patrick-paul&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
-
-<br>
-<br>
-
-<img style="display: block; margin: auto; align:center;" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-paul&theme=github-dark&hide_border=true" />
 
 <br>
 <br>
