@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-39D353?style=flat-square&logo=google-chrome&logoColor=white)](https://YOUR-SITE-URL.com) 
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-39D353?style=flat-square&logo=google-chrome&logoColor=white)](https://patrickpaul.co.tz) 
 [![Profile Views](https://komarev.com/ghpvc/?username=patrick-paul&color=brightgreen&style=flat-square)](https://github.com/patrick-paul)
 [![X](https://img.shields.io/badge/X-@patric__forreal-black?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://x.com/patric_forreal) 
 [![Email](https://img.shields.io/badge/Email-patrickpaul367%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patrickpaul367@gmail.com)
