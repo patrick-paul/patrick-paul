@@ -9,6 +9,7 @@
 <br>
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-39D353?style=flat-square&logo=google-chrome&logoColor=white)](https://YOUR-SITE-URL.com) 
 [![Profile Views](https://komarev.com/ghpvc/?username=patrick-paul&color=brightgreen&style=flat-square)](https://github.com/patrick-paul)
 [![X](https://img.shields.io/badge/X-@patric__forreal-black?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://x.com/patric_forreal) 
 [![Email](https://img.shields.io/badge/Email-patrickpaul367%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patrickpaul367@gmail.com)
@@ -25,11 +26,17 @@
 
 Well, I like to code good code. I am a developer with very different ideas of how things work, or at least how they should work. Very different you can say that I am the bug in your code. A bug you will never find. But as stubborn as that sounds... <br> My journey in tech is fueled by some fundamental aspects:
 
-- 🎓 The idea of what knowledge can help you do
-- 💡 Creativity and problem-solving ideas
-- 🚀 A tech company won't hurt
+- 🎓 **Knowledge:** The idea of what knowledge can help you do.
+- 💡 **Creativity:** Problem-solving through unique perspectives.
+- 🚀 **Ambition:** A tech company won't hurt.
 
-<br>
+---
+
+### 🌍 My Digital Space
+Feel free to explore my latest projects and deep dives into engineering on my personal site:
+👉 **[patrick-paul.com](https://YOUR-SITE-URL.com)** (Update this link!)
+
+---
 
 ### 📈 My Stats
 
@@ -88,8 +95,10 @@ Well, I like to code good code. I am a developer with very different ideas of ho
 </div>
 
 <br><br>
+
 ### 📫 Find Me
 
+- 🌐 Website: [patrick-paul.com](https://YOUR-SITE-URL.com)
 - 🐦 Twitter: [@patric_forreal](https://x.com/patric_forreal)
 - 📧 Email: patrickpaul367@gmail.com
 - 💼 GitHub: [patrick-paul](https://github.com/patrick-paul)
