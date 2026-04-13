@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="preview.png" alt="Patrick Paul" style="max-width: 100%; height: auto;" />
-</div>
- 
-<div align="center">
  
 # Patrick Paul
  
