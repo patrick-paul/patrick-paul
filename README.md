@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme_background.png" alt="Patrick Paul" style="max-width: 100%; height: auto;" />
+  <img src="preview.png" alt="Patrick Paul" style="max-width: 100%; height: auto;" />
 </div>
  
 <div align="center">
@@ -16,47 +16,15 @@
 </div>
  
 ---
- 
-I build websites that work as hard as you do.
- 
-Full-stack engineer focused on responsive design, performance, and scalable systems — trusted by 10+ clients across Tanzania. I merge clean architecture with results-driven engineering to build web applications that don't just load fast — they drive real outcomes.
+
+Full-stack engineer focused on responsive design, performance, and scalable systems - trusted by 10+ clients across Tanzania.
  
 > 3+ years · 10+ clients · 100% satisfaction rate · Available remotely
  
 ---
- 
-### Highlight: cPage
- 
-Built to solve a problem every Tanzanian university student knows — the 30-minute cover page ritual before every assignment submission.
- 
-**cPage** turned that friction into 30 seconds.
- 
-| Metric | Result |
-|---|---|
-| Active Users | 15,000+ |
-| Total Events | 461,000+ |
-| Institutions Supported | 50+ |
-| Marketing Budget | $0 |
- 
-Zero ads. Pure word-of-mouth. Still growing.
- 
-→ [cpage.co.tz](https://cpage.co.tz)
- 
----
- 
-### Projects
- 
-| Project | Description |
-|---|---|
-| [cPage](https://cpage.co.tz) | Academic cover page generator — 15K+ active users across Tanzania |
-| [BMP Pilla](https://bmppilla.co.tz) | Kitchenware wholesale platform with full product catalog |
-| [Mihale Afya](https://mihaleafya.co.tz) | Clinic web presence with VPS deployment & SSL |
-| [Swaber](https://github.com/patrick-paul) | AI-powered Swahili audio transcription |
-| Trinity | Poultry business POS — real-time sales & stock tracking |
-| iPF Meals | Telegram-integrated internal meal management system |
- 
----
- 
+
+<div align="center">
+  
 ### Stack
  
 #### Languages
@@ -87,10 +55,26 @@ Zero ads. Pure word-of-mouth. Still growing.
  
 ---
  
-### GitHub Stats
+### Projects
  
+| Project | Description |
+|---|---|
+| [cPage](https://cpage.co.tz) | Academic cover page generator — 15K+ active users across Tanzania |
+| [BMP Pilla](https://bmppilla.co.tz) | Kitchenware wholesale platform with full product catalog |
+| [Mihale Afya](https://mihaleafya.co.tz) | Clinic web presence with VPS deployment & SSL |
+| [Swaber](https://github.com/patrick-paul) | AI-powered Swahili audio transcription |
+| Trinity | Poultry business POS — real-time sales & stock tracking |
+| iPF Meals | Telegram-integrated internal meal management system |
+
+</div>
+ 
+---
+
 <div align="center">
- 
+
+  
+### GitHub Stats
+  
 <img alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=patrick-paul&count_private=true&show_icons=true&theme=github_dark&border_radius=12&border_color=39D353&icon_color=39D353&title_color=ffffff&hide_title=false" />
  
 <br><br>
